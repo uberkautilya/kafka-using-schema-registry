@@ -1,4 +1,4 @@
-This is fork - albeit the split from the original repository, of Code With Dilip Youtube course on Kafka with Schema registry.
+This is fork - albeit split from the original repository, of Code With Dilip Youtube course on Kafka with Schema registry.
 
 # Kafka For Developers - Data Contracts using Schema Registry
 

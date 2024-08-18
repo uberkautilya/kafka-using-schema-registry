@@ -1,3 +1,5 @@
+This is fork - albeit the split from the original repository, of Code With Dilip Youtube course on Kafka with Schema registry.
+
 # Kafka For Developers - Data Contracts using Schema Registry
 
 This repository has the content to interact with Kafka using AVRO and Schema Registry.
